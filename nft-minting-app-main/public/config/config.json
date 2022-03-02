@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xB53b92407A8fe9aB29688832eD15021CBAA1F62D",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xb53b92407a8fe9ab29688832ed15021cbaa1f62d",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETC",
+    "ID": 4
+  },
+  "NFT_NAME": "ST4ND 4 UKR",
+  "SYMBOL": "UKR",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/st4nd-4-ukr-v2",
+  "SHOW_BACKGROUND": true
+}
